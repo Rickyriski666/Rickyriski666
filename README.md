@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rickyriski666
+- 👋 Hi, I’m Ricky Riskiawan  
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning about web development
 - 💞️ I'm looking for a teacher, study partner, or collaborator about web development
